@@ -2,6 +2,6 @@ Hi, I am Nikita! I am passionate about machine learning and data science. My lat
 
 - 📚 PhD candidate at [HU Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/nikita-kozodoi-m-sc/nikita-kozodoi-m-sc)
 - 💻 Data science at [Monedo](https://www.monedo.com)
-- 📊 Work on ML applications in credit scoring
+- 📊 Working on ML in credit scoring
 
 Check out [my blog](https://kozodoi.github.io/blog/) for ML tutorials, competition solutions and findings from different projects. I am also happy to connect on [LinkedIn](https://www.linkedin.com/in/kozodoi/) or [Twitter](https://twitter.com/n_kozodoi).
