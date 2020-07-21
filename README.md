@@ -4,6 +4,6 @@ Hi, I am Nikita! I am passionate about machine learning and data science. My lat
 - 💻 Data science at [Monedo](https://www.monedo.com)
 - 📊 Working on ML in credit scoring
 
-[Check out my blog](https://kozodoi.github.io/blog/) for ML tutorials, competition solutions and findings from different projects.
+[Check out my blog](https://kozodoi.me) for ML tutorials, competition solutions and findings from different projects.
 
 Connect with me on different platforms: [LinkedIn](https://www.linkedin.com/in/kozodoi/), [Twitter](https://twitter.com/n_kozodoi), [Google Scholar](https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en), [ResearchGate](https://www.researchgate.net/profile/Nikita_Kozodoi), [Kaggle](https://www.kaggle.com/kozodoi).
