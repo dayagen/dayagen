@@ -1,8 +1,10 @@
-Hi, I am Nikita! I am passionate about machine learning and data science. My latest work focuses on ML applications in the field of credit risk analytics. I also enjoy participating at data science competitions and hackathons.
+Hi, I am Nikita!
 
-- 📚 PhD candidate at [HU Berlin](https://www.wiwi.hu-berlin.de/en)
-- 💻 Data science at [Monedo](https://www.monedo.com)
-- 📊 Working on ML in credit scoring
+- 📚 PhD candidate at Humbold University of Berlin
+- 💻 Data science reasearch associate at Monedo
+- ⌨️ Passionate about machine learning & data science
+- 📊 Working on machine learning applications in credit risk analytics
+- 🏅 Enjoy participating at data science competitions and hackathons
 
 [Check out my blog](https://kozodoi.me) for ML tutorials, competition solutions and findings from different projects.
 
