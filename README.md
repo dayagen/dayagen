@@ -1,6 +1,6 @@
 Hi, I am Nikita!
 
-- 📚 PhD candidate at Humbold University of Berlin
+- 📚 PhD candidate at Humboldt University of Berlin
 - 💻 Data science reasearch associate at Monedo
 - ⌨️ Passionate about machine learning & data science
 - 📊 Working on machine learning applications in credit risk analytics
