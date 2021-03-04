@@ -2,9 +2,9 @@ Hi, I am Nikita!
 
 - 📚 PhD candidate at [Humboldt University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/nikita-kozodoi-m-sc/nikita-kozodoi-m-sc)
 - 💻 Data science research associate at [Monedo](https://www.monedo.com)
-- ⌨️ Passionate about machine learning & data science
-- 🏦 Working on machine learning applications in credit risk analytics
-- 🏅 Enjoy participating at data science competitions and hackathons
+- ⌨️ Passionate about machine learning, deep learning & AI
+- 🏦 Working on ML applications in credit risk analytics
+- 🏅 Enjoy participating at ML competitions and hackathons
 
 [Check out my blog](https://kozodoi.me) for ML tutorials, competition solutions and findings from different projects.
 
