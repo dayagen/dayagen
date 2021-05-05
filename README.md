@@ -1,7 +1,7 @@
 - 📚 PhD candidate at [Humboldt University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/nikita-kozodoi-m-sc/nikita-kozodoi-m-sc)
 - 🤖 Passionate about machine learning & AI
 - 🧑‍💻 Working on ML/DL applications in credit risk analytics
-- 🏅 Enjoy participating at [ML competitions and hackathons](https://kozodoi.me/kaggle/)
+- 🏅 Enjoy participating in [ML competitions and hackathons](https://kozodoi.me/kaggle/)
 - 💼 [My portfolio](https://kozodoi.me/portfolio) with three data science projects on different topics
 
 [Check out my blog](https://kozodoi.me) for ML tutorials, competition solutions and findings from different projects.
