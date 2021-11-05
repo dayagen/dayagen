@@ -2,7 +2,7 @@
 - 🤖 Passionate about machine learning & data science
 - 🧑‍💻 Working on ML/DL applications in credit risk analytics
 - 🏅 Enjoy participating in [ML competitions and hackathons](https://kozodoi.me/kaggle/)
-- 💼 [My portfolio](https://kozodoi.me/portfolio) with three data science projects on different topics
+- 💼 [My portfolio](https://kozodoi.me/portfolio) with data science projects on different topics
 
 [Check out my website](https://kozodoi.me) for ML blog, academic publications, Kaggle solutions and more of my work.
 
