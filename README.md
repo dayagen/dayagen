@@ -4,7 +4,7 @@
 - 🏅 Enjoy participating in [ML competitions and hackathons](https://kozodoi.me/kaggle/)
 - 💼 [My portfolio](https://kozodoi.me/portfolio) with data science projects on different topics
 
-[Check out my website](https://kozodoi.me) for ML blog, research papers, public talks and more of my work.
+[Check out my website](https://kozodoi.me) with ML blog, research papers, public talks and more of my work.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/kozodoi/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/n_kozodoi)](https://www.twitter.com/n_kozodoi)
