@@ -1,8 +1,8 @@
-- 📚 ML researcher & PhD candidate at [HU Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/nikita-kozodoi-m-sc/nikita-kozodoi-m-sc)
-- 🤖 Working on the frontier of research and business
-- 🧑‍💻 Focusing on ML for credit scoring and DL for computer vision
+- 🧑‍💻 ML researcher working on the frontier of research and business
+- 🤖 Focusing on ML for credit scoring and DL for computer vision
+- 🎓 PhD in ML from HU Berlin and certified AWS ML knowledge
 - 🏅 Enjoy participating in [ML competitions and hackathons](https://kozodoi.me/kaggle/)
-- 💼 [My portfolio](https://kozodoi.me/portfolio) with data science projects on different topics
+- 💼 [My portfolio](https://kozodoi.me/portfolio) with ML projects on different topics
 
 [Check out my website](https://kozodoi.me) with ML blog, research papers, public talks and more of my work.
 
