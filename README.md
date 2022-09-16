@@ -1,4 +1,4 @@
-- 🧑‍💻 Applied ML Scientist at Amazon Web Services
+- 🧑‍💻 Applied Machine Learning Scientist
 - 🔥 Working on the frontier of research & business
 - 🎓 PhD in ML from HU Berlin and certified AWS knowledge
 - 🏅 Enjoy participating in [ML competitions and hackathons](https://kozodoi.me/kaggle/)
