@@ -1,4 +1,4 @@
-- 🧑‍💻 Applied Scientist at [AWS ML Solutions Lab](https://aws.amazon.com/ml-solutions-lab/)
+- 🧑‍💻 Applied Machine Learning Scientist
 - 🔥 Working on the frontier of research & business
 - 🎓 PhD from [HU Berlin](https://edoc.hu-berlin.de/handle/18452/25386?locale-attribute=en) & certified [AWS expertise](https://www.credly.com/users/nikita-kozodoi/badges#)
 - 🏅 Enjoy participating in [ML competitions](https://kozodoi.me/kaggle/)
