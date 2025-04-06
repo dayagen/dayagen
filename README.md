@@ -1,7 +1,6 @@
 - 🧑‍💻 Senior Applied Scientist at [AWS GenAI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/)
 - 🔥 Working on the frontier of AI research and business
-- 🎓 [PhD from HU Berlin](https://edoc.hu-berlin.de/handle/18452/25386?locale-attribute=en) and [certified AWS expertise](https://www.credly.com/users/nikita-kozodoi/badges#)
-- 🏅 Enjoy challenging myself in [ML competitions](https://kozodoi.me/kaggle/)
+- 🎓 [PhD in ML](https://edoc.hu-berlin.de/handle/18452/25386?locale-attribute=en) from HU Berlin and [certified AWS expertise](https://www.credly.com/users/nikita-kozodoi/badges#)
 
 [Check out my website](https://kozodoi.me) with my ML blog, publications and portfolio.
 
